@@ -178,7 +178,7 @@ function getTypeofBooking() {
 
     var numMax = $('#hiddenNumMax').val();
     if (numMax !== "0") {
-        for (i = 0; i < data.length; i++) {
+        for (i = 0; i < bookingTypes.length; i++) {
             $('#typeofbookingddl').append($('<option/>', {
                 value: bookingTypes[i].Value,
                 text: bookingTypes[i].Text
