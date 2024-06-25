@@ -2,7 +2,7 @@
   "data": {
     "availabilities": [
       {
-        "dateTime": "2024-07-01T00:00:00+02:00",
+        "dateTime": "2024-07-01T00:00:00-03:00",
         "openingTimes": [
           {
             "fromTime": "09:00",
@@ -27,7 +27,7 @@
         }
       },
       {
-        "dateTime": "2024-07-02T00:00:00+02:00",
+        "dateTime": "2024-07-02T00:00:00-03:00",
         "openingTimes": [
           {
             "fromTime": "09:00",
