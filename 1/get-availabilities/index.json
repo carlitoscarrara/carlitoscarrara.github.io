@@ -2,43 +2,51 @@
   "data": {
     "availabilities": [
       {
-        "dateTime": "2024-06-25T00:00:00+03:00",
+        "dateTime": "2024-07-01T00:00:00+02:00",
         "openingTimes": [
           {
             "fromTime": "09:00",
             "toTime": "18:00"
           }
         ],
-        "productId": "161",
+        "productId": "prod123",
         "cutoffSeconds": 0,
         "vacancies": 10,
-        "currency": "USD",
+        "currency": "EUR",
         "pricesByCategory": {
           "retailPrices": [
             {
               "category": "ADULT",
-              "price": 6
+              "price": 1500
+            },
+            {
+              "category": "CHILD",
+              "price": 1000
             }
           ]
         }
       },
       {
-        "dateTime": "2024-06-25T00:00:00+03:00",
+        "dateTime": "2024-07-02T00:00:00+02:00",
         "openingTimes": [
           {
             "fromTime": "09:00",
-            "toTime": "18:00"
+            "toTime": "12:00"
           }
         ],
-        "productId": "161",
+        "productId": "prod123",
         "cutoffSeconds": 0,
-        "vacancies": 10,
-        "currency": "USD",
+        "vacancies": 12,
+        "currency": "EUR",
         "pricesByCategory": {
           "retailPrices": [
             {
               "category": "ADULT",
-              "price": 6
+              "price": 1600
+            },
+            {
+              "category": "CHILD",
+              "price": 1100
             }
           ]
         }
